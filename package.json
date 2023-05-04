@@ -1,5 +1,5 @@
 {
-  "name": "marco-carvalho-sdk",
+  "name": "@marcoacfilho/marco-carvalho-sdk",
   "version": "1.0.0",
   "description": "The Lord of the Rings SDK",
   "main": "dist/index.js",
