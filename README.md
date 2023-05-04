@@ -17,13 +17,13 @@ The Lord of the Rings SDK based on the <https://the-one-api.dev/v2> API
 NodeJS v10.0.0+ is required.
 
 ```sh
-npm install -S marco-carvalho-sdk
+npm install -S @marcoacfilho/marco-carvalho-sdk
 ```
 
 ### How to use
 
 ```js
-import LorSDK from 'marco-carvalho-sdk';
+import LorSDK from '@marcoacfilho/marco-carvalho-sdk';
 
 const lorSDK = new LorSDK("YOUR_ACCESS_TOKEN_HERE");
 const movieServices = lorSDK.getMovies();
